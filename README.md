@@ -1,26 +1,12 @@
-# FFProbe Wasm Demo
+# FFProbe Wasm Example
 
-This is a demo of [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm).
+Example app using [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm).
 
 # Installation and execution
 
 ```
 npm install
 npm run serve
-```
-
-or
-
-```
-yarn
-yarn run serve
-```
-
-or
-
-```
-pnpm install
-pnpm serve
 ```
 
 # Note
